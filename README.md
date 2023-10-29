@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://saisrinu135.github.io/qr-component/)
 
 ## My process
 
@@ -50,5 +47,5 @@ I want to focus on the Media queries and Grid in future projects and improve my 
 
 - Frontend Mentor - [@saisrinu135](https://www.frontendmentor.io/profile/saisrinu135)
 - Twitter - [@saisrinu__sunny](https://www.twitter.com/saisrinu__sunny)
-- Linkedin - [@saisrinu17][https://www.linkedin.com/in/saisrinu17/]
-- Instagram - [@saisrinu__sunny][https://www.instagram.com/saisrinu__sunny/]
+- Linkedin - [@saisrinu17](https://www.linkedin.com/in/saisrinu17/)
+- Instagram - [@saisrinu__sunny](https://www.instagram.com/saisrinu__sunny/)
